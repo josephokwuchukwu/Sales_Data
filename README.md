@@ -1,5 +1,5 @@
 
-# 🏪 KUJA Shop Data Warehouse
+# 🏪 Juka Shop Data Warehouse
 
 A complete **Sales Data Warehouse** built on **Snowflake** for retail analytics and business intelligence.
 
