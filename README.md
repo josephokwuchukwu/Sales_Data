@@ -26,7 +26,7 @@ A complete **Sales Data Warehouse** built on **Snowflake** for retail analytics 
 
 ## 🎯 Overview
 
-**KUJA Shop Data Warehouse** is a dimensional data model designed for analyzing retail sales data. Built using **Snowflake's** modern cloud data platform, this project demonstrates best practices in:
+**Juka Shop Data Warehouse** is a dimensional data model designed for analyzing retail sales data. Built using **Snowflake's** modern cloud data platform, this project demonstrates best practices in:
 
 - ⭐ Star schema design
 - 📊 Fact and dimension modeling
